@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon067a.ttf") format("truetype"),
+url("flaticon067a.woff") format("woff"),
+url("flaticon067a.woff2") format("woff2"),
+url("flaticon067a.eot#iefix") format("embedded-opentype"),
+url("flaticon067a.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-gas-station:before {
+    content: "\f101";
+}
+.flaticon-gas-station-1:before {
+    content: "\f102";
+}
+.flaticon-electric-station:before {
+    content: "\f103";
+}
+.flaticon-wireless-charging:before {
+    content: "\f104";
+}
+.flaticon-car:before {
+    content: "\f105";
+}
+.flaticon-electricity:before {
+    content: "\f106";
+}
+.flaticon-electric-car:before {
+    content: "\f107";
+}
+.flaticon-electric-power:before {
+    content: "\f108";
+}
+.flaticon-electric-car-1:before {
+    content: "\f109";
+}
+.flaticon-electric-car-2:before {
+    content: "\f10a";
+}
+.flaticon-electric-car-3:before {
+    content: "\f10b";
+}
